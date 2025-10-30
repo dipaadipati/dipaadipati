@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Adipati<br><br>- 🔭 I’m working as FullStack Developer</p>
+<p align="left">I'm Adipati<br><br>- 🔭 I’m working as FullStack Web Developer</p>
 
 ###
 
